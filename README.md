@@ -9,7 +9,7 @@
  <p>Name: Clinton Jenkins</p>
  <P>Student Number: s3987670</p>
  <P>Student E-mail: s3987670@student.rmit.edu.au</p>
- <img src="img_me_dad_branny.jpg" alt="Branny Dad and I">
+ <img src="me_dad_branny.jpg" alt="Branny Dad and I">
 <h2>Background Info:  </h2>
 <p>I was Born in 1990 and lived as an only child, to a Single Mother moving back and forth all over Australia. I’ve now been now residing in Bunbury, Western Australia for the past 6 years with my lovely Girlfriend. Four years ago I finally got the chance to meet my biological Father (Pictured Above), I went from a family of just Two for 27 years, to now having a Half-Brother, 3 Step-sisters, 3 Half-Step-Brothers and more Nieces and Nephews then I can even begin to keep track of. I’m in the process of re-discovering who I am as a person, I’ve changed so much in so many ways over the past 14 years since becoming an Adult, I no longer recognise myself from the teenager I was in High school (All for the greater good of course).</p>
 <p>I can’t say I’ve really accomplished anything significant in my life so far, certainly not what I’d set out to do when leaving high school way back then. I’ve watched my life like it’s been a spin off the movie “A series of Unfortunate Events”, except it wasn’t Jim Carrey starring, Its been me. The Technology Industry has been pushing its limits over these past 50 years, but it’s always remained the same to me, I’ve always been able to rely on it. It’s always worked for me, not against me. </p>
